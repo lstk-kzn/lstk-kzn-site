@@ -1,1 +1,1 @@
-# lstk-kzn-site
+# lstk-kzn.ru
